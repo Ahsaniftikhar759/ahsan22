@@ -3,8 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-    Ahsan iftikhar
+    <div className='app'>
+
+    <h1>hello world from Ahsan iftikhar</h1>
     </div>
   );
 }
