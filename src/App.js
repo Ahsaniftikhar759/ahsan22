@@ -1,11 +1,14 @@
 import React from 'react';
 import './App.css';
+import Hook2 from './Hook2';
 
 function App() {
   return (
-    <div className='app'>
-
-    <h1>hello world from Ahsan iftikhar</h1>
+    <div className="App">
+ 
+    
+      <Hook2/>
+ 
     </div>
   );
 }
